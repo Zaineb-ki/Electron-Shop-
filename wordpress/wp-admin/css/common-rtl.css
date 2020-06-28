@@ -3923,7 +3923,8 @@ img {
 	}
 
 	.fileedit-sub input[type="submit"] {
-		margin-bottom: 0;
+		margin-bottom: 0px;
+		padding: 0px 18px;
 	}
 
 	#documentation label[for="docs-list"] {
@@ -3937,6 +3938,7 @@ img {
 
 	#documentation input[type="button"] {
 		margin-bottom: 0;
+		padding: 8px 18px;
 	}
 
 	#wpfooter {
